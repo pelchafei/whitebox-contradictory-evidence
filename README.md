@@ -8,7 +8,14 @@ Accepted to Findings of EMNLP.
 
 ## Overview
 
-![White-box tracing pipeline](figures/pipeline.png)
+<p align="center">
+  <img src="WikiContradict_repo.pdf" alt="White-box tracing pipeline" width="800">
+</p>
+
+
+<p align="center">
+  <img src="pipeline_repo.pdf" alt="White-box tracing pipeline" width="800">
+</p>
 
 ## Status
 
